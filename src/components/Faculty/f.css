@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+h2 {
+    color: #333;
+}
+.content {
+    background: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.profile {
+    margin-bottom: 20px;
+}
+.profile img {
+    float: left;
+    margin-right: 15px;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.profile h3 {
+    margin-top: 0;
+}
+.profile p {
+    margin: 5px 0;
+}
